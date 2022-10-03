@@ -1,7 +1,8 @@
 package mastermind;
 
 public class MasterMind {
-    char[] tCol;
+    char[] tCol = new char[10];
+    
 
     public static void main(String[] args) {
         
